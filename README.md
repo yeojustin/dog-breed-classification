@@ -25,5 +25,5 @@ The images are in JPEG format, contain RGB channels, and have varying dimensions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dog-breed-identification.git
+   git clone https://github.com/yeojustin/dog-breed-identification.git
    cd dog-breed-identification
